@@ -31,6 +31,8 @@
 
 ## 📊 Stats
 > Consistency beats hype.
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kogawz1997&show_icons=true&theme=tokyonight)
 
 
