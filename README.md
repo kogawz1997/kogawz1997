@@ -1,3 +1,4 @@
+![banner](https://file.kiwi/11bfd9c8#4e1RoqCW3ijyA3CIsTphIw)
 # KOGA.EXE
 ### The Code Is My Language
 
