@@ -45,8 +45,11 @@ Remote execution without RCON
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ## 🧠 Philosophy
 
-I don't just write code.  
-I build systems that scale, automate, and control.
+I don't build features.  
+I build systems.
 
 KOGA.EXE is not a project.  
-It's a system.
+It's infrastructure.
+
+## 🔗 Connect
+- GitHub: https://github.com/kogawz1997
