@@ -1,4 +1,4 @@
-![banner](https://file.kiwi/11bfd9c8#4e1RoqCW3ijyA3CIsTphIw)
+![banner](https://img2.pic.in.th/ChatGPT-Image-21-..-2569-13_45_02.png)
 # KOGA.EXE
 ### The Code Is My Language
 
