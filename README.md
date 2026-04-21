@@ -5,19 +5,20 @@
 > 🚀 Building SCUM SaaS Platform  
 > ⚙️ Automation Systems & Game Server Control  
 > 🧠 Multi-tenant Architecture Builder
-
 ---
 
 ## 🔥 Projects
-- 🚀 SCUM SaaS Platform  
-  → Multi-tenant system for managing SCUM servers
 
-- 🤖 Discord Bot System  
-  → Real-time log parsing & game integration
+### 🚀 SCUM SaaS Platform
+Multi-tenant system for managing SCUM servers  
+→ Owner Panel / Tenant / Player Portal  
 
-- 🛰️ Delivery Agent System  
-  → Remote execution without RCON (agent-based control)
----
+### 🤖 Discord Bot System
+Real-time log parsing & game integration  
+
+### 🛰️ Delivery Agent System
+Remote execution without RCON  
+→ Agent-based control system
 
 ## ⚙️ Core Stack
 
@@ -32,9 +33,7 @@
 ## 📊 Stats
 > Consistency beats hype.
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kogawz1997&show_icons=true&theme=tokyonight)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogawz1997&layout=compact&theme=tokyonight)
 
