@@ -1,16 +1,23 @@
-## Hi there 👋
+# KOGA.EXE
+### The Code Is My Language
 
-<!--
-**kogawz1997/kogawz1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 SCUM SaaS Platform Developer  
+⚙️ Automation Systems & Game Server Control  
+🧩 Multi-tenant Architecture Builder  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- SCUM SaaS Platform
+- Discord Bot System
+- Delivery Agent System
+
+---
+
+## ⚙️ Stack
+Node.js • TypeScript • Discord.js • Prisma
+
+---
+
+## 📊 Stats
+(ใส่ badge ทีหลัง)
