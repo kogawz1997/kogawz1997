@@ -2,26 +2,35 @@
 # KOGA.EXE
 ### The Code Is My Language
 
-🚀 SCUM SaaS Platform Developer  
-⚙️ Automation Systems & Game Server Control  
-🧩 Multi-tenant Architecture Builder  
+> 🚀 Building SCUM SaaS Platform  
+> ⚙️ Automation Systems & Game Server Control  
+> 🧠 Multi-tenant Architecture Builder
 
 ---
 
 ## 🔥 Projects
-- SCUM SaaS Platform
-- Discord Bot System
-- Delivery Agent System
+- 🚀 SCUM SaaS Platform  
+  → Multi-tenant system for managing SCUM servers
 
+- 🤖 Discord Bot System  
+  → Real-time log parsing & game integration
+
+- 🛰️ Delivery Agent System  
+  → Remote execution without RCON (agent-based control)
 ---
 
-## ⚙️ Stack
-Node.js • TypeScript • Discord.js • Prisma
+## ⚙️ Core Stack
+
+- Node.js / TypeScript
+- Discord.js (Bot System)
+- Prisma (Database ORM)
+- Game Server Integration
+- Agent-based Automation
 
 ---
 
 ## 📊 Stats
-
+> Consistency beats hype.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kogawz1997&show_icons=true&theme=tokyonight)
 
 
@@ -33,3 +42,10 @@ Node.js • TypeScript • Discord.js • Prisma
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+## 🧠 Philosophy
+
+I don't just write code.  
+I build systems that scale, automate, and control.
+
+KOGA.EXE is not a project.  
+It's a system.
