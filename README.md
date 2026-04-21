@@ -24,9 +24,8 @@ Node.js • TypeScript • Discord.js • Prisma
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kogawz1997&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogawz1997&layout=compact&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kogawz1997&theme=tokyonight&no-frame=true&margin-w=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogawz1997&layout=compact&theme=tokyonight)
 
 ## ⚙️ Tech
 
